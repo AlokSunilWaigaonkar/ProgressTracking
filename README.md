@@ -4,7 +4,7 @@
 This Spring Boot application provides APIs for tracking coding progress, including user summaries, submission history, and a leaderboard. It is designed for use in online coding platforms to evaluate and track user performance over time.
 
 ---
-
+```
 ## 📁 Project Structure
 com.ProgressTracking
 ├── controller
@@ -25,7 +25,7 @@ com.ProgressTracking
 ├── service
 │   └── ProgressTrackingService.java
 └── ProgressTrackingApplication.java
-
+```
 ---
 
 ## 🌐 API Endpoints
